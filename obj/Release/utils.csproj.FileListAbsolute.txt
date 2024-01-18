@@ -1,0 +1,5 @@
+C:\Users\usuario\source\repos\utils\bin\Release\utils.dll
+C:\Users\usuario\source\repos\utils\bin\Release\utils.pdb
+C:\Users\usuario\source\repos\utils\obj\Release\utils.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\utils\obj\Release\utils.dll
+C:\Users\usuario\source\repos\utils\obj\Release\utils.pdb
